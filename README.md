@@ -1,1 +1,1 @@
-Demo : [www.sergenakkaya.com](https://sergenakkaya.com/To-doList/index.html)
+Demo : [www.sergenakkaya.com.tr](https://sergenakkaya.com.tr/project/todolist/)
